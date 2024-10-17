@@ -1,0 +1,21 @@
+Job Title,Company Name,Location,Industry,Revenue,Min Salary,Max Salary,Avg Salary,Job State,Company Age,Python,Excel,Hadoop,Spark,AWS,Tableau,Big Data,Job Simplification,Seniority
+Software Engineer,Tech Innovators,San Francisco,Information Technology,$500 million - $1 billion,"$80,000 ","$120,000 ","$100,000 ",CA,10,1,1,0,1,1,0,1,software engineer,entry
+Marketing Analyst,Global Trends,New York,Marketing,$100 million - $500 million,"$60,000 ","$80,000 ","$70,000 ",NY,8,0,1,0,0,0,1,0,marketing analyst,entry
+Data Engineer,Data Solutions,Seattle,Data Services,$1 billion - $5 billion,"$90,000 ","$130,000 ","$110,000 ",WA,12,1,0,1,1,1,0,1,data engineer,mid
+Financial Analyst,Finance Pros,Chicago,Financial Services,$500 million - $1 billion,"$70,000 ","$100,000 ","$85,000 ",IL,7,0,1,0,0,0,1,0,financial analyst,entry
+AI Researcher,AI Innovations,Boston,Artificial Intelligence,$1 billion - $5 billion,"$100,000 ","$150,000 ","$125,000 ",MA,5,1,1,1,1,1,0,1,ai researcher,senior
+Software Engineer,Tech Innovators,San Francisco,Information Technology,$500 million - $1 billion,"$80,000 ","$120,000 ","$100,000 ",CA,10,1,1,0,1,1,0,1,software engineer,entry
+Marketing Analyst,Global Trends,New York,Marketing,$100 million - $500 million,"$60,000 ","$80,000 ","$70,000 ",NY,8,0,1,0,0,0,1,0,marketing analyst,entry
+Data Engineer,Data Solutions,Seattle,Data Services,$1 billion - $5 billion,"$90,000 ","$130,000 ","$110,000 ",WA,12,1,0,1,1,1,0,1,data engineer,mid
+Financial Analyst,Finance Pros,Chicago,Financial Services,$500 million - $1 billion,"$70,000 ","$100,000 ","$85,000 ",IL,7,0,1,0,0,0,1,0,financial analyst,entry
+AI Researcher,AI Innovations,Boston,Artificial Intelligence,$1 billion - $5 billion,"$100,000 ","$150,000 ","$125,000 ",MA,5,1,1,1,1,1,0,1,ai researcher,senior
+Data Engineer,Data Solutions,Seattle,Data Services,$1 billion - $5 billion,"$90,000 ","$130,000 ","$110,000 ",WA,12,1,0,1,1,1,0,1,data engineer,mid
+Financial Analyst,Finance Pros,Chicago,Financial Services,$500 million - $1 billion,"$70,000 ","$100,000 ","$85,000 ",IL,7,0,1,0,0,0,1,0,financial analyst,entry
+AI Researcher,AI Innovations,Boston,Artificial Intelligence,$1 billion - $5 billion,"$100,000 ","$150,000 ","$125,000 ",MA,5,1,1,1,1,1,0,1,ai researcher,senior
+Software Engineer,Tech Innovators,San Francisco,Information Technology,$500 million - $1 billion,"$80,000 ","$120,000 ","$100,000 ",CA,10,1,1,0,1,1,0,1,software engineer,entry
+Marketing Analyst,Global Trends,New York,Marketing,$100 million - $500 million,"$60,000 ","$80,000 ","$70,000 ",NY,8,0,1,0,0,0,1,0,marketing analyst,entry
+Financial Analyst,Finance Pros,Chicago,Financial Services,$500 million - $1 billion,"$70,000 ","$100,000 ","$85,000 ",IL,7,0,1,0,0,0,1,0,financial analyst,entry
+AI Researcher,AI Innovations,Boston,Artificial Intelligence,$1 billion - $5 billion,"$100,000 ","$150,000 ","$125,000 ",MA,5,1,1,1,1,1,0,1,ai researcher,senior
+Data Engineer,Data Solutions,Seattle,Data Services,$1 billion - $5 billion,"$90,000 ","$130,000 ","$110,000 ",WA,12,1,0,1,1,1,0,1,data engineer,mid
+Financial Analyst,Finance Pros,Chicago,Financial Services,$500 million - $1 billion,"$70,000 ","$100,000 ","$85,000 ",IL,7,0,1,0,0,0,1,0,financial analyst,entry
+AI Researcher,AI Innovations,Boston,Artificial Intelligence,$1 billion - $5 ,,,,,,,,,,,,,,
